@@ -1,0 +1,23 @@
+# Ignore Binaries, Build, Intermediate, Saved, and DerivedDataCache
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore compiled source files
+*.sln
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# Ignore local settings
+.vscode/
+.idea/
+.vs/
+
+# Optional
+*.log
+*.tmp
+*.bak
